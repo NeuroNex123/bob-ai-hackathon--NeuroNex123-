@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Drug Safety Signal Detector and Regulatory is a system that analysis drug safety data to identify potential adverse drug reaction and emerging safety signals. It helps detect risks early and support regulatory decisions by providing evidence for monitoring warnings or further investigations. ]
+Drug Safety Signal Detector and Regulatory is a system that analysis drug safety data to identify potential adverse drug reaction and emerging safety signals. It helps detect risks early and support regulatory decisions by providing evidence for monitoring warnings or further investigations. 
 
 ---
 
@@ -27,19 +27,18 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[We built an AI powered drug safety signal detector that analysis ADR reports to identify potential drug related safety risks and unusual patterns. 
-It prioritizes important signals and generates quick regulatory summaries helping pharmacovigilance teams detect risks earlier and make faster decisions.  ]
+We built an AI powered drug safety signal detector that analysis ADR reports to identify potential drug related safety risks and unusual patterns. 
+It prioritizes important signals and generates quick regulatory summaries helping pharmacovigilance teams detect risks earlier and make faster decisions.  
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [ADR Detection - Identifies potential adverse drug reactions from safety reports.]
-- **Feature 2:** [AI Signal Detection - Finds unusual patterns and emerging safety signals. ]
-- **Feature 3:** [Risk Prioritization - Ranks signals based on severity and potential impact]
-- **Feature 4:** [Real Time Alerts - Provides early warnings for high risks drug safety signals.]
-- **Feature 5:** [Regulatory Reports - Generates concise summaries to support regulatory review and action.]
-
+- **Feature 1:** ADR Detection - Identifies potential adverse drug reactions from safety reports.
+- **Feature 2:** AI Signal Detection - Finds unusual patterns and emerging safety signals. 
+- **Feature 3:** Risk Prioritization - Ranks signals based on severity and potential impact
+- **Feature 4:** Real Time Alerts - Provides early warnings for high risks drug safety signals.
+- **Feature 5:** Regulatory Reports - Generates concise summaries to support regulatory review and action.
 ---
 
 ## 🛠️ Tech Stack
