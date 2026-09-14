@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 Drug Safety signal Detector and Regulatory 
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | NeuroNex123 |
+| **Track** | Sustainability |
+| **Team Lead** | Prapti Patel — 24bph067@charusat.edu.in |
+| **Members** | Rudra Patel, Rutvi Patel, Saloni Patel |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Drug Safety Signal Detector and Regulatory is a system that analysis drug safety data to identify potential adverse drug reaction and emerging safety signals. It helps detect risks early and support regulatory decisions by providing evidence for monitoring warnings or further investigations. ]
 
 ---
 
@@ -27,17 +27,18 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[We built an AI powered drug safety signal detector that analysis ADR reports to identify potential drug related safety risks and unusual patterns. 
+It prioritizes important signals and generates quick regulatory summaries helping pharmacovigilance teams detect risks earlier and make faster decisions.  ]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [ADR Detection - Identifies potential adverse drug reactions from safety reports.]
+- **Feature 2:** [AI Signal Detection - Finds unusual patterns and emerging safety signals. ]
+- **Feature 3:** [Risk Prioritization - Ranks signals based on severity and potential impact]
+- **Feature 4:** [Real Time Alerts - Provides early warnings for high risks drug safety signals.]
+- **Feature 5:** [Regulatory Reports - Generates concise summaries to support regulatory review and action.]
 
 ---
 
